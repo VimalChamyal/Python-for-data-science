@@ -25,7 +25,7 @@ Topics covered
 5. Range vs Arange function
 6. Creating matrix of zeros, ones, diagonal matrix (ones)
 7. Reshape vs Resize
-8. Generating random values : Linspace(Creating evenly spaced values between 2 numbers), rand (sd), randn (nd), randint (ud)
+8. Generating random values : Linspace(evenly spaced values btn 2 no.), rand (sd), randn (nd), randint (ud)
 9. Indexing & Slicing
 10. Conditional Indexing
 11. Broadcasting
