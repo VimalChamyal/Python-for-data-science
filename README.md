@@ -18,9 +18,9 @@ If you are looking to cover most of the things python has got to offer (before e
 
 ## Topics covered
 
-## Python - Almost everything one needs to know right from scratch (basics) to advance
+### Python - Almost everything one needs to know right from scratch (basics) to advance
 
-## Numpy
+### Numpy
 
 1. Installing numpy
 2. Importing/Loading numpy
