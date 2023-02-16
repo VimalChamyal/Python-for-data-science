@@ -12,11 +12,11 @@ If you are looking to cover most of the things python has got to offer (before e
 3. Input & Output
 4. Operating thru python
 5. Conditional statements
-6. Sequences ft Python
-  1. AA_List
-  2. AA_Tuples
-  3. AA_Dictionaries
-  4. AA_Sets
+6. Sequences ft Python <br>
+  i. AA_List <br>
+  ii. AA_Tuples <br>
+  iii. AA_Dictionaries <br>
+  iv. AA_Sets <br>
 7. Avoiding Reps (Functions, Looping & Iterating)
 8. OOPS
 
