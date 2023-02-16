@@ -16,7 +16,7 @@ If you are looking to cover most of the things python has got to offer (before e
 7. Avoiding Reps (Functions, Looping & Iterating)
 8. OOPS
 
-Topics covered
+## Topics covered
 
 ## Python - Almost everything one needs to know right from scratch (basics) to advance
 
